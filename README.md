@@ -1,4 +1,4 @@
-# Hi, I'm Priya Rithadia 👋
+# Hi there,👋
 
 I enjoy understanding how businesses work, identifying opportunities for improvement, and using data to support better decision-making.
 
