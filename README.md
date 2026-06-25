@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Priya Rithadia 👋
 
-<!--
-**priyarithadia/priyarithadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy understanding how businesses work, identifying opportunities for improvement, and using data to support better decision-making.
 
-Here are some ideas to get you started:
+Here you'll find my Business Analysis case studies, SQL projects, Power BI dashboards, and other work that reflects my approach to solving real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+Business Analysis • Power BI • SQL • Data Visualisation • Process Improvement
+
+### 🛠️ Tools
+SQL | Power BI | Excel | Python | DAX | JIRA | Confluence | SAP | Tableau | Git
+
+### 📫 Reach Me
+📧 rithadiapriya@gmail.com  
+💼 [LinkedIn ](https://www.linkedin.com/in/priya-rithadia/) 
+🌐 Portfolio
