@@ -13,4 +13,4 @@ SQL | Power BI | Excel | Python | DAX | JIRA | Confluence | SAP | Tableau | Git
 ### 📫 Reach Me
 📧 rithadiapriya@gmail.com  
 💼 [LinkedIn ](https://www.linkedin.com/in/priya-rithadia/) 
-🌐 Portfolio
+🌐 [Portfolio](https://prithadia-portfolio-c7c06.web.app/)
